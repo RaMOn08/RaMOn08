@@ -1,4 +1,7 @@
-### Hi there 👋
+### E aí, eu me chamo Ramon 👋🏻
+-  🤓 Iniciante na programção, buscando o máximo de conhecimento que puder, motivado e dedicado a aprender coisas novas!
+-  🚀 O maior limitador somos nós mesmos! 
+-  🤝🏻 Obrigado pela visita! espero obter retorno! ### Nice too meet you! ✌🏻
 
 <!--
 **RaMOn08/RaMOn08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
